@@ -1,0 +1,73 @@
+body{
+background-image: url(https://kartinkin.net/uploads/posts/2021-07/1625558145_2-kartinkin-com-p-zhivoi-fon-dlya-intro-krasivie-foni-3.jpg);
+
+}
+
+.title{
+    color: white;
+}
+
+#name {
+    border: 5px solid black   ;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+}
+
+#surname{
+    border: 5px solid black   ;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+}
+#number{
+    border: 5px solid black   ;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+}
+
+#image{
+    border: 5px solid black   ;
+    border-radius: 10px;
+    background-color: black;    
+    color: white;
+}
+
+.card{
+    border: 5px solid black;
+    background-color: black;
+    color: white;
+    border-radius: 7px;
+
+
+}
+
+.card-image-top{
+    border: 5px  solid black;
+    border-radius: 7px;
+}
+
+.card-title{
+    border: 2px solid white;
+border-radius: 8px;
+background-color: white;
+color: black;
+}
+.card-text{
+    border: 2px solid white;
+border-radius: 8px;
+background-color: white;
+color: black;
+margin-top: 10px;
+}
+
+/* .modal-body{
+    background-color: black;
+    color: white;
+
+} */
+
+    #exampleModal{
+        background-color: rgb(69, 3, 69);
+    }
